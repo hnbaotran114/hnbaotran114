@@ -1,3 +1,3 @@
-print("Hello world") #Display Hello World on screen
-
-print("Have a nice day')Hello Github
+print("Hello world") 
+print("Have a nice day")
+print("Hello Github")
